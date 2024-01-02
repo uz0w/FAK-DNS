@@ -1,5 +1,4 @@
 https://doh.apad.pro/dns-query
-https://1.1.1.1/dns-query
 [/265.com/]https://doh.pub/dns-query
 [/2mdn-cn.net/]https://doh.pub/dns-query
 [/2mdn.net/]https://doh.pub/dns-query
