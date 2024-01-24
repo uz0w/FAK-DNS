@@ -92,6 +92,7 @@
 [/mesu-cdn.apple.com.akadns.net/]https://doh.pub/dns-query
 [/mesu-china.apple.com.akadns.net/]https://doh.pub/dns-query
 [/mesu.apple.com/]https://doh.pub/dns-query
+[/ml.cdn-apple.com/]https://doh.pub/dns-query
 [/music.apple.com/]https://doh.pub/dns-query
 [/ocsp-lb.apple.com.akadns.net/]https://doh.pub/dns-query
 [/ocsp.apple.com/]https://doh.pub/dns-query
@@ -115,8 +116,8 @@
 [/store.storeimages.cdn-apple.com/]https://doh.pub/dns-query
 [/support-china.apple-support.akadns.net/]https://doh.pub/dns-query
 [/support.apple.com/]https://doh.pub/dns-query
-[/swallow.apple.com/]https://doh.pub/dns-query
 [/swallow-apple-com.v.aaplimg.com/]https://doh.pub/dns-query
+[/swallow.apple.com/]https://doh.pub/dns-query
 [/swcatalog-cdn.apple.com.akadns.net/]https://doh.pub/dns-query
 [/swcatalog.apple.com/]https://doh.pub/dns-query
 [/swcdn.apple.com/]https://doh.pub/dns-query
