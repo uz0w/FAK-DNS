@@ -187,3 +187,4 @@
 [/uberproxy-with-cn.l.google.com/]https://doh.pub/dns-query
 [/uberproxy-with-cn4.l.google.com/]https://doh.pub/dns-query
 [/uberproxy-with-cn6.l.google.com/]https://doh.pub/dns-query
+[/qiao-cn.com/]https://doh.pub/dns-query
