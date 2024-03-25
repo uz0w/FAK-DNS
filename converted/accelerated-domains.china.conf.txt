@@ -3993,6 +3993,7 @@
 [/51gouke.com/]https://doh.pub/dns-query
 [/51gowan.com/]https://doh.pub/dns-query
 [/51gran.com/]https://doh.pub/dns-query
+[/51grb.com/]https://doh.pub/dns-query
 [/51grfy.com/]https://doh.pub/dns-query
 [/51growup.com/]https://doh.pub/dns-query
 [/51gsl.com/]https://doh.pub/dns-query
@@ -7149,7 +7150,6 @@
 [/9973.com/]https://doh.pub/dns-query
 [/997788.com/]https://doh.pub/dns-query
 [/998.com/]https://doh.pub/dns-query
-[/99808.com/]https://doh.pub/dns-query
 [/9981ypk.com/]https://doh.pub/dns-query
 [/9982.com/]https://doh.pub/dns-query
 [/99844666.com/]https://doh.pub/dns-query
@@ -8624,7 +8624,6 @@
 [/aliuv.com/]https://doh.pub/dns-query
 [/alivecdn.com/]https://doh.pub/dns-query
 [/alivv.com/]https://doh.pub/dns-query
-[/alivv.net/]https://doh.pub/dns-query
 [/aliway.com/]https://doh.pub/dns-query
 [/aliwd.com/]https://doh.pub/dns-query
 [/aliwears.com/]https://doh.pub/dns-query
@@ -9668,7 +9667,6 @@
 [/astestech.com/]https://doh.pub/dns-query
 [/astfc.com/]https://doh.pub/dns-query
 [/asthis.net/]https://doh.pub/dns-query
-[/astorpiano.com/]https://doh.pub/dns-query
 [/astron.ac/]https://doh.pub/dns-query
 [/astropulsion.com/]https://doh.pub/dns-query
 [/asuidnfamun.com/]https://doh.pub/dns-query
@@ -20555,7 +20553,6 @@
 [/donhonet.net/]https://doh.pub/dns-query
 [/donnor.com/]https://doh.pub/dns-query
 [/donvv.com/]https://doh.pub/dns-query
-[/donzair.com/]https://doh.pub/dns-query
 [/doodoobird.com/]https://doh.pub/dns-query
 [/doofull.com/]https://doh.pub/dns-query
 [/dooioo.com/]https://doh.pub/dns-query
@@ -53917,7 +53914,6 @@
 [/someabcd.com/]https://doh.pub/dns-query
 [/somenchina.com/]https://doh.pub/dns-query
 [/someonegao.com/]https://doh.pub/dns-query
-[/somepen.com/]https://doh.pub/dns-query
 [/something8.com/]https://doh.pub/dns-query
 [/sometracking.com/]https://doh.pub/dns-query
 [/somo.so/]https://doh.pub/dns-query
@@ -62238,7 +62234,6 @@
 [/woskj2.com/]https://doh.pub/dns-query
 [/woso100.com/]https://doh.pub/dns-query
 [/wotangka.com/]https://doh.pub/dns-query
-[/wotobang.com/]https://doh.pub/dns-query
 [/wotrus.com/]https://doh.pub/dns-query
 [/wotucdn.com/]https://doh.pub/dns-query
 [/wotula.com/]https://doh.pub/dns-query
@@ -62775,7 +62770,6 @@
 [/wwwimages.adobe.com/]https://doh.pub/dns-query
 [/wwwimages2.adobe.com/]https://doh.pub/dns-query
 [/wwwwww.vip/]https://doh.pub/dns-query
-[/wwz8.com/]https://doh.pub/dns-query
 [/wx-api.net/]https://doh.pub/dns-query
 [/wx-data.com/]https://doh.pub/dns-query
 [/wx-youyan.net/]https://doh.pub/dns-query
@@ -63003,7 +62997,6 @@
 [/x23118.com/]https://doh.pub/dns-query
 [/x23119.com/]https://doh.pub/dns-query
 [/x23qb.com/]https://doh.pub/dns-query
-[/x23us.me/]https://doh.pub/dns-query
 [/x23us.us/]https://doh.pub/dns-query
 [/x23wxw.com/]https://doh.pub/dns-query
 [/x2image.com/]https://doh.pub/dns-query
