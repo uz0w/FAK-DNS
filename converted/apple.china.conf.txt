@@ -108,6 +108,7 @@
 [/ml.cdn-apple.com/]https://doh.pub/dns-query
 [/music.apple.com/]https://doh.pub/dns-query
 [/ocsp-lb.apple.com.akadns.net/]https://doh.pub/dns-query
+[/ocsp2-lb.apple.com.akadns.net/]https://doh.pub/dns-query
 [/ocsp.apple.com/]https://doh.pub/dns-query
 [/ocsp2.apple.com/]https://doh.pub/dns-query
 [/oscdn.apple.com/]https://doh.pub/dns-query
