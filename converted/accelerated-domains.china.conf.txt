@@ -4417,6 +4417,7 @@
 [/52372.com/]https://doh.pub/dns-query
 [/523touzi.com/]https://doh.pub/dns-query
 [/52419.net/]https://doh.pub/dns-query
+[/524399game.com/]https://doh.pub/dns-query
 [/52488.com/]https://doh.pub/dns-query
 [/525.life/]https://doh.pub/dns-query
 [/5251.net/]https://doh.pub/dns-query
@@ -16406,6 +16407,7 @@
 [/cloud-links.net/]https://doh.pub/dns-query
 [/cloud-neofussvr.sslcs.cdngc.net/]https://doh.pub/dns-query
 [/cloud-rtc.com/]https://doh.pub/dns-query
+[/cloud-rtc.net/]https://doh.pub/dns-query
 [/cloud-scdn-ns.net/]https://doh.pub/dns-query
 [/cloud-scdn-ns.tech/]https://doh.pub/dns-query
 [/cloud-scdn.com/]https://doh.pub/dns-query
@@ -28460,7 +28462,6 @@
 [/haoyouyinxiang.com/]https://doh.pub/dns-query
 [/haoyuanfurniture.com/]https://doh.pub/dns-query
 [/haoyuanxiao.com/]https://doh.pub/dns-query
-[/haoyue.asia/]https://doh.pub/dns-query
 [/haoyue28.com/]https://doh.pub/dns-query
 [/haoyuepu.com/]https://doh.pub/dns-query
 [/haoyun13.com/]https://doh.pub/dns-query
@@ -41806,6 +41807,7 @@
 [/magicdata.io/]https://doh.pub/dns-query
 [/magich5page.com/]https://doh.pub/dns-query
 [/magicleaders.com/]https://doh.pub/dns-query
+[/magicneko.com/]https://doh.pub/dns-query
 [/magicnetmall.com/]https://doh.pub/dns-query
 [/magicspinning.com/]https://doh.pub/dns-query
 [/magicwatchface.com/]https://doh.pub/dns-query
@@ -68484,7 +68486,6 @@
 [/ym01.tech/]https://doh.pub/dns-query
 [/ym1998.com/]https://doh.pub/dns-query
 [/ym23.com/]https://doh.pub/dns-query
-[/ym68.cc/]https://doh.pub/dns-query
 [/ymadly.com/]https://doh.pub/dns-query
 [/ymadx.com/]https://doh.pub/dns-query
 [/ymailcampaign.com/]https://doh.pub/dns-query
