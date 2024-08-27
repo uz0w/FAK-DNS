@@ -46,6 +46,7 @@
 [/cn-smp-paymentservices.apple.com/]https://doh.pub/dns-query
 [/configuration.apple.com.akadns.net/]https://doh.pub/dns-query
 [/configuration.apple.com/]https://doh.pub/dns-query
+[/crl.apple.com/]https://doh.pub/dns-query
 [/cstat.apple.com/]https://doh.pub/dns-query
 [/cstat.cdn-apple.com/]https://doh.pub/dns-query
 [/dd-cdn.origin-apple.com.akadns.net/]https://doh.pub/dns-query
