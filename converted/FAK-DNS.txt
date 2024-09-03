@@ -39613,6 +39613,7 @@ https://doh.apad.pro/dns-query
 [/ibmhz.com/]https://doh.pub/dns-query
 [/ibmwclub.com/]https://doh.pub/dns-query
 [/ibodao.com/]https://doh.pub/dns-query
+[/iboohee.com/]https://doh.pub/dns-query
 [/ibook8.com/]https://doh.pub/dns-query
 [/ibooker.cc/]https://doh.pub/dns-query
 [/ibookstar.com/]https://doh.pub/dns-query
@@ -41699,6 +41700,7 @@ https://doh.apad.pro/dns-query
 [/ivywing.me/]https://doh.pub/dns-query
 [/iwala.net/]https://doh.pub/dns-query
 [/iwan4399.com/]https://doh.pub/dns-query
+[/iwan78.com/]https://doh.pub/dns-query
 [/iwanbei.com/]https://doh.pub/dns-query
 [/iwanboy.com/]https://doh.pub/dns-query
 [/iwangding.com/]https://doh.pub/dns-query
@@ -50234,6 +50236,7 @@ https://doh.apad.pro/dns-query
 [/luoqiu.com/]https://doh.pub/dns-query
 [/luoqiuzw.com/]https://doh.pub/dns-query
 [/luoshendao.com/]https://doh.pub/dns-query
+[/luoshu.com/]https://doh.pub/dns-query
 [/luoshuanchangjia.com/]https://doh.pub/dns-query
 [/luosi.com/]https://doh.pub/dns-query
 [/luosifen888.com/]https://doh.pub/dns-query
@@ -83379,6 +83382,7 @@ https://doh.apad.pro/dns-query
 [/yqwyx.xyz/]https://doh.pub/dns-query
 [/yqxiuyoung.com/]https://doh.pub/dns-query
 [/yqxs.cc/]https://doh.pub/dns-query
+[/yqxsg.cc/]https://doh.pub/dns-query
 [/yqxsge.cc/]https://doh.pub/dns-query
 [/yqxxjy.com/]https://doh.pub/dns-query
 [/yqy021.com/]https://doh.pub/dns-query
