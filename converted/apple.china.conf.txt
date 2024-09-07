@@ -5,8 +5,8 @@
 [/a5.mzstatic.com/]https://doh.pub/dns-query
 [/adcdownload.apple.com.akadns.net/]https://doh.pub/dns-query
 [/adcdownload.apple.com/]https://doh.pub/dns-query
-[/amp-api.media.apple.com/]https://doh.pub/dns-query
 [/amp-api-updates.apps.apple.com/]https://doh.pub/dns-query
+[/amp-api.media.apple.com/]https://doh.pub/dns-query
 [/api-p-ap-c.smoot.apple.com/]https://doh.pub/dns-query
 [/api-p-ap-d.smoot.apple.com/]https://doh.pub/dns-query
 [/api-p-ap-e.smoot.apple.com/]https://doh.pub/dns-query
@@ -51,6 +51,7 @@
 [/cstat.cdn-apple.com/]https://doh.pub/dns-query
 [/dd-cdn.origin-apple.com.akadns.net/]https://doh.pub/dns-query
 [/dejavu.apple.com/]https://doh.pub/dns-query
+[/devstreaming-cdn.apple.com/]https://doh.pub/dns-query
 [/download.developer.apple.com/]https://doh.pub/dns-query
 [/experiments.apple.com/]https://doh.pub/dns-query
 [/gs-loc-cn.apple.com/]https://doh.pub/dns-query
@@ -63,8 +64,8 @@
 [/gsp4-cn.ls.apple.com/]https://doh.pub/dns-query
 [/gsp5-cn.ls.apple.com/]https://doh.pub/dns-query
 [/gsp85-cn-ssl.ls.apple.com/]https://doh.pub/dns-query
-[/gspe19-2-cn-ssl.ls.apple.com/]https://doh.pub/dns-query
 [/gspe19-2-cn-ssl.ls-apple.com.akadns.net/]https://doh.pub/dns-query
+[/gspe19-2-cn-ssl.ls.apple.com/]https://doh.pub/dns-query
 [/gspe19-cn-ssl.ls.apple.com/]https://doh.pub/dns-query
 [/gspe19-cn.ls-apple.com.akadns.net/]https://doh.pub/dns-query
 [/gspe19-cn.ls.apple.com/]https://doh.pub/dns-query
@@ -93,6 +94,7 @@
 [/ipcdn.apple.com/]https://doh.pub/dns-query
 [/iphone-ld.apple.com/]https://doh.pub/dns-query
 [/iphone-ld.origin-apple.com.akadns.net/]https://doh.pub/dns-query
+[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]https://doh.pub/dns-query
 [/is1-ssl.mzstatic.com/]https://doh.pub/dns-query
 [/is1.mzstatic.com/]https://doh.pub/dns-query
 [/is2-ssl.mzstatic.com/]https://doh.pub/dns-query
@@ -103,7 +105,6 @@
 [/is4.mzstatic.com/]https://doh.pub/dns-query
 [/is5-ssl.mzstatic.com/]https://doh.pub/dns-query
 [/is5.mzstatic.com/]https://doh.pub/dns-query
-[/is-ssl.mzstatic.com-cn-lb.itunes-apple.com.akadns.net/]https://doh.pub/dns-query
 [/itunes-apple.com.akadns.net/]https://doh.pub/dns-query
 [/itunes.apple.com/]https://doh.pub/dns-query
 [/itunesconnect.apple.com/]https://doh.pub/dns-query
@@ -113,8 +114,8 @@
 [/ml.cdn-apple.com/]https://doh.pub/dns-query
 [/music.apple.com/]https://doh.pub/dns-query
 [/ocsp-lb.apple.com.akadns.net/]https://doh.pub/dns-query
-[/ocsp2-lb.apple.com.akadns.net/]https://doh.pub/dns-query
 [/ocsp.apple.com/]https://doh.pub/dns-query
+[/ocsp2-lb.apple.com.akadns.net/]https://doh.pub/dns-query
 [/ocsp2.apple.com/]https://doh.pub/dns-query
 [/oscdn.apple.com/]https://doh.pub/dns-query
 [/oscdn.origin-apple.com.akadns.net/]https://doh.pub/dns-query
