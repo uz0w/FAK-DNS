@@ -9083,6 +9083,7 @@
 [/aipgy.com/]https://doh.pub/dns-query
 [/aipiaxi.com/]https://doh.pub/dns-query
 [/aipingxiang.com/]https://doh.pub/dns-query
+[/aippt.com/]https://doh.pub/dns-query
 [/aippt.site/]https://doh.pub/dns-query
 [/aiprose.com/]https://doh.pub/dns-query
 [/aipu-waton.com/]https://doh.pub/dns-query
@@ -25752,6 +25753,7 @@
 [/esinidc.com/]https://doh.pub/dns-query
 [/esipark.com/]https://doh.pub/dns-query
 [/esisroldh.org/]https://doh.pub/dns-query
+[/esjlf.com/]https://doh.pub/dns-query
 [/esjson.com/]https://doh.pub/dns-query
 [/esk365.com/]https://doh.pub/dns-query
 [/eskimall.com/]https://doh.pub/dns-query
@@ -28479,7 +28481,6 @@
 [/g1f5.com/]https://doh.pub/dns-query
 [/g1yx.com/]https://doh.pub/dns-query
 [/g2.link/]https://doh.pub/dns-query
-[/g2g1.com/]https://doh.pub/dns-query
 [/g2h3.com/]https://doh.pub/dns-query
 [/g2us.com/]https://doh.pub/dns-query
 [/g2work.com/]https://doh.pub/dns-query
@@ -36353,6 +36354,7 @@
 [/hkgol.com/]https://doh.pub/dns-query
 [/hkinsu.com/]https://doh.pub/dns-query
 [/hkjapp.com/]https://doh.pub/dns-query
+[/hkjsrent.com/]https://doh.pub/dns-query
 [/hkklock.com/]https://doh.pub/dns-query
 [/hkkuaiyixiu.com/]https://doh.pub/dns-query
 [/hklego.com/]https://doh.pub/dns-query
@@ -36640,7 +36642,6 @@
 [/hnlyy.com/]https://doh.pub/dns-query
 [/hnlzhd.com/]https://doh.pub/dns-query
 [/hnlzw.net/]https://doh.pub/dns-query
-[/hnlzzq.com/]https://doh.pub/dns-query
 [/hnmdtv.com/]https://doh.pub/dns-query
 [/hnmfbw.com/]https://doh.pub/dns-query
 [/hnmgjr.com/]https://doh.pub/dns-query
@@ -43118,6 +43119,7 @@
 [/jita.fun/]https://doh.pub/dns-query
 [/jita.im/]https://doh.pub/dns-query
 [/jita5.com/]https://doh.pub/dns-query
+[/jitaba.net/]https://doh.pub/dns-query
 [/jitadaren.com/]https://doh.pub/dns-query
 [/jitadog.com/]https://doh.pub/dns-query
 [/jitailian.com/]https://doh.pub/dns-query
@@ -43313,6 +43315,7 @@
 [/jjbhn.com/]https://doh.pub/dns-query
 [/jjbisai.com/]https://doh.pub/dns-query
 [/jjbnews.xyz/]https://doh.pub/dns-query
+[/jjcbw.com/]https://doh.pub/dns-query
 [/jjccb.com/]https://doh.pub/dns-query
 [/jjcclt.com/]https://doh.pub/dns-query
 [/jjcdn.com/]https://doh.pub/dns-query
@@ -43386,6 +43389,7 @@
 [/jjwxc.net/]https://doh.pub/dns-query
 [/jjwxc.org/]https://doh.pub/dns-query
 [/jjxwzk.org/]https://doh.pub/dns-query
+[/jjxxk.com/]https://doh.pub/dns-query
 [/jjxyls.com/]https://doh.pub/dns-query
 [/jjy118.com/]https://doh.pub/dns-query
 [/jjygym.com/]https://doh.pub/dns-query
@@ -53939,7 +53943,6 @@
 [/n802.com/]https://doh.pub/dns-query
 [/n8hte.com/]https://doh.pub/dns-query
 [/n8olw300b.sbs/]https://doh.pub/dns-query
-[/n99hao.com/]https://doh.pub/dns-query
 [/n9z.net/]https://doh.pub/dns-query
 [/na.ci/]https://doh.pub/dns-query
 [/naadou.com/]https://doh.pub/dns-query
@@ -66810,6 +66813,7 @@
 [/srworld.net/]https://doh.pub/dns-query
 [/srx3.net/]https://doh.pub/dns-query
 [/srxww.com/]https://doh.pub/dns-query
+[/srxzc.com/]https://doh.pub/dns-query
 [/srxzz.com/]https://doh.pub/dns-query
 [/srzc.com/]https://doh.pub/dns-query
 [/srzdq.com/]https://doh.pub/dns-query
